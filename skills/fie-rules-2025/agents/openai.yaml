@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIE Rules 2025"
+  short_description: "Consulta reglas FIE 2025 de esgrima"
+  default_prompt: "Use $fie-rules-2025 to answer a question about FIE 2025 fencing rules."
